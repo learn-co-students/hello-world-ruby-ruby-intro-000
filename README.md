@@ -14,7 +14,7 @@ We're going to make a file that will print ["Hello World!"](http://en.wikipedia.
 
 ## Instructions
 
-Get started by clicking the Open button in Learn. 
+Get started by clicking the Open button in Learn.
 
 ### Creating a File
 
@@ -46,9 +46,9 @@ Hello World!
 
 ### Running Learn
 
-Confirm everything is working by running the `learn` command. You should see that all tests are passing (e.g. no red error text). 
+Confirm everything is working by running the `learn` command. You should see that all tests are passing (e.g. no red error text).
 
-Note: When you write code, the case (uppercase/lowercase) of characters matters, and so your test will not pass unless you print "Hello World!" exactly. 
+Note: When you write code, the case (uppercase/lowercase) of characters matters, and so your test will not pass unless you print "Hello World!" exactly.
 
 ### Submitting Your Lab
 
@@ -58,7 +58,7 @@ Your adventure in Ruby has only just begun.
 
 ### Hello World History
 
-A small piece of coding history—a handwritten version of Hello World in C (an early programming language). 
+A small piece of coding history—a handwritten version of Hello World in C (an early programming language).
 
 ![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
 
