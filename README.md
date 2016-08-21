@@ -14,11 +14,11 @@ We're going to make a file that will print ["Hello World!"](http://en.wikipedia.
 
 ## Instructions
 
-Get started by clicking the Open button in Learn. 
+Get started by clicking the Open button in Learn.
 
 ### Creating a File
 
-You will need to create a text file called `hello_world.rb` within the lab's directory. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. To create this, in the Learn IDE's terminal type `touch hello_world.rb`. If that worked as expected, you should now see the file appear in the file browser. You can open this file by double clicking on it in the file browser or by typing `atom hello_world.rb`. You should now see an empty file open in your text editor, ready to be edited. 
+You will need to create a text file called `hello_world.rb` within the lab's directory. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. To create this, in the Learn IDE's terminal type `touch hello_world.rb`. If that worked as expected, you should now see the file appear in the file browser. You can open this file by double clicking on it in the file browser or by typing `atom hello_world.rb`. You should now see an empty file open in your text editor, ready to be edited.
 
 ### Writing Code
 
@@ -46,9 +46,9 @@ Hello World!
 
 ### Running Learn
 
-Confirm everything is working by running the `learn` command. You should see that all tests are passing (e.g. no red error text). 
+Confirm everything is working by running the `learn` command. You should see that all tests are passing (e.g. no red error text).
 
-Note: When you write code, the case (uppercase/lowercase) of characters matters, and so your test will not pass unless you print "Hello World!" exactly. 
+Note: When you write code, the case (uppercase/lowercase) of characters matters, and so your test will not pass unless you print "Hello World!" exactly.
 
 ### Submitting Your Lab
 
@@ -58,10 +58,11 @@ Your adventure in Ruby has only just begun.
 
 ### Hello World History
 
-A small piece of coding history—a handwritten version of Hello World in C (an early programming language). 
+A small piece of coding history—a handwritten version of Hello World in C (an early programming language).
 
 ![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
 
 _[Hello World! by Brian Kernighan, from Artsy's Algorythm Auction](https://www.artsy.net/artwork/brian-kernighan-hello-world) based on a 1974 Bell Laboratories internal memorandum by Brian Kernighan, Programming in C: A Tutorial, which contains the first known version._
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/hello-world-ruby'>Hello World</a> on Learn.co and start learning to code for free.</p>
+puts "Hello World!"
