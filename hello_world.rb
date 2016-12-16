@@ -1,2 +1,1 @@
-puts "Hello World!
-```bash "$ Hello World!"
+puts "Hello World!"
