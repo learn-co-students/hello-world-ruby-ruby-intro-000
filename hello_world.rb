@@ -1,3 +1,5 @@
 hello_world.rb
-$ ruby hello_world.rb
-"Hello World!"
+hello_world.rb
+Hello World!
+Main()
+printf("hello_world")
